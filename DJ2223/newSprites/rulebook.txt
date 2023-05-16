@@ -1,0 +1,42 @@
+Game Contents per player:
+2x Boards
+5x Ship tokens: 
+    1x Carriers (length 5) 
+    1x Battleships (Length 4) 
+    2x Cruisers (Length 3) 
+    1x Submarines (Length 2) 
+    5x Mines tokens 
+    5x Shark Tokens 
+    5x Ammunition Tokens 
+
+
+Setup:
+Every player has 2 boards, one representing their own sea (blue) and one representing the Opponent's Sea(Red) : 
+
+1st Its time to place your fleet, dispose your ships horizontally or vertically on the board. 
+
+Your flee is composed of 5 ships   
+    1x Carrier, which occupies five tiles 
+    1xBattleship, which occupies four tiles 
+    2xCruiser, which occupies three tiles 
+    1xSubmarine, which occupies two tiles 
+
+2nd It is time to place the mines, each player uses the generate mine position button to generate random positions for the five mines and places them accordingly on their board.  
+
+3rd Place 5x Shark tokens and 5x Ammo tokens on your board. 
+ 
+ 
+Game Rules:
+Each player takes a turn after the other, until all ships on one of the sides are destroyed  
+A player takes a shot by exclaiming the Coordinates and the Opponent will say what it hit: 
+    MISS:   Your shot has missed, mark on your map, on the coordinates, with a miss token so that you wont hit that same spot twice. 
+    HIT:   You’ve Hit a ship, their end is Nigh!  Mark on your map, with a HIT token, where you’ve successfully hit, and shoot again! 
+    MINE:   You’ve Hit a mine and it explodes! All adjacent coordinates in a cross have been hit. (above, left, right and below) Your opponent must tell what else you’ve hit so both can resolve those events. 
+    SHARK!:   OH NO! You’ve Hit a SHARK! The shark will have his revenge: choose what ship to sacrifice, that ship takes damage on one spot, tell your opponent where you have been hit, and shoot again. Mark the shark position with a shark icon. 
+    AMMO:   The debris is a boon to the opponent, they will shoot twice next turn using the extra supplies. Mark the presence of ammo there with an ammunition icon. 
+ 
+Once the Shot is resolved and the Next person plays; you should record his moves on your side of the board, in the same fashion as specified above, so you know the progress of your opponent and where you have already been shot at. 
+
+ 
+End of the game:
+The Game ends once one of the Players has no more ships functional on their board, making the Winner the player who still has ships remaining on their board. And he who wins has GLOATING RIGHTS TO HAVE CONQUERED THESE DREADED SEAS!  
