@@ -1,3 +1,27 @@
 [submodule "SIRS2223/NetworkSecurity"]
 	path = SIRS2223/NetworkSecurity
 	url = https://github.com/franciscomcsousa/NetworkSecurity.git
+[submodule "AASMA2223"]
+	path = AASMA2223
+	url = https://github.com/SaraAguincha/AASMA.git
+[submodule "MDJ2223/WithinDreams"]
+	path = MDJ2223/WithinDreams
+	url = https://github.com/SaraAguincha/WithinDreams.git
+[submodule "CSF2223"]
+	path = CSF2223
+	url = https://github.com/franciscomcsousa/CSF2223.git
+[submodule "SEC2324/HDSSerenity"]
+	path = SEC2324/HDSSerenity
+	url = https://github.com/franciscomcsousa/HDSSerenity.git
+[submodule "DIDA2324"]
+	path = DIDA2324
+	url = https://github.com/SaraAguincha/DIDA2324.git
+[submodule "ACIC2324"]
+	path = ACIC2324
+	url = https://github.com/SaraAguincha/ACIC2324.git
+[submodule "AI2324/WareSmart"]
+	path = AI2324/WareSmart
+	url = https://github.com/franciscomcsousa/WareSmart.git
+[submodule "CMU2324/PharmacIST"]
+	path = CMU2324/PharmacIST
+	url = https://github.com/franciscomcsousa/PharmacIST.git
